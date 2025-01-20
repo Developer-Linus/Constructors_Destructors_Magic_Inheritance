@@ -149,3 +149,22 @@ car.start()  # Output: Engine starting...
 ##### YouTube Resources
 1. https://youtu.be/Ej_02ICOIgs <br>
 2. https://youtu.be/L4v9gKC7QxY 
+
+## Practice Exercises
+#### Exercise 1: Constructors and Destructors Instructions:
+
+- Create a Person class with attributes like name and age. Implement a constructor (__init__) to initialize these attributes.
+- Also, implement a destructor (__del__) method to print a farewell message when an object is deleted.
+#### Exercise 2: Magic Methods (str and repr) Instructions:
+
+- Create a Book class with attributes like title, author, and pages.
+- Implement both __str__ and __repr__ magic methods to provide different string representations of the book object.
+#### Exercise 3: Class Inheritance Instructions:
+
+- Create a base class Animal with methods like eat and sleep.
+- Create a subclass Dog that inherits from Animal and adds a method bark.
+- Create instances of both classes and demonstrate method inheritance.
+
+## Additional Resources
+- [Python Composition Example](https://intranet.alxswe.com/rltoken/bJz5Zq4ucHJilLFWI8mp_Q)
+[Inheritance and composition in Python](https://intranet.alxswe.com/rltoken/0r9sND5DWxEMBC75Dg6G1Q)
