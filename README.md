@@ -145,3 +145,7 @@ class Engine:
 car = Car(Engine())
 car.start()  # Output: Engine starting...
 ```
+
+##### YouTube Resources
+1. https://youtu.be/Ej_02ICOIgs <br>
+2. https://youtu.be/L4v9gKC7QxY 
